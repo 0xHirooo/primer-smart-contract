@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+# Primer smart contract que hice gracias a la ayuda de Web3es.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Primer smart contract que hice con la ayuda de Web3es de un juego llamado Criptdle.
 
-Try running some of the following tasks:
+Criptdle: Un juego basado en el wordle, con los mismos sistemas de juego en donde tenés que adivinar la palabra oculta dentro de los intentos permitidos, pero con palabras que se relacionan con el mundo de las criptomonedas. Creado por Solow.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Links: 
+
+Web3es: https://www.web3es.com/
+       
+Solow: https://solow.io/
+       
+Criptdle: https://criptdle.com/
+
+
