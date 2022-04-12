@@ -12,4 +12,6 @@ Solow: https://solow.io/
        
 Criptdle: https://criptdle.com/
 
+# PUBLICADO EN
 
+https://rinkeby.etherscan.io/address/0xB0aA6b71A262D279CeB9a8f26AcD0184A50014f7
