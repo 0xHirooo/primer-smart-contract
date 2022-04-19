@@ -15,3 +15,7 @@ Criptdle: https://criptdle.com/
 # Publicado en la siguiente página
 
 https://rinkeby.etherscan.io/address/0xB0aA6b71A262D279CeB9a8f26AcD0184A50014f7
+
+# Con la última mejora
+
+https://rinkeby.etherscan.io/address/0x81EBd4D7c3C0137Ddd1ccCa575176B9205DB27AA
